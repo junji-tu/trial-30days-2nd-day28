@@ -1,0 +1,21 @@
+{
+  "name": "package-template",
+  "version": "1.0.0",
+  "author": "from44net",
+  "license": "GPLv2",
+  "devDependencies": {
+    "css-declaration-sorter": "^4.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-wordpress": "^2.0.0",
+    "gulp": "^4.0.1",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-stylelint": "^9.0.0",
+    "gulp-merge-media-queries": "^0.2.1",
+    "stylelint": "^10.0.1",
+    "stylelint-config-wordpress": "^14.0.0"
+  }
+}
